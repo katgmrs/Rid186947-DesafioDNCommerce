@@ -12,7 +12,7 @@ Projeto de e-commerce desenvolvido com foco na criação de uma experiência de 
 
 ## 📋 Sobre o Projeto
 
-O DN Commerce é uma aplicação web desenvolvida para simular uma loja virtual, permitindo a navegação por produtos e proporcionando uma experiência de usuário fluida e responsiva.
+O DNCommerce é uma aplicação web desenvolvida para simular uma loja virtual, permitindo a navegação por produtos e proporcionando uma experiência de usuário fluida e responsiva.
 
 O projeto foi desenvolvido com foco em boas práticas de desenvolvimento, componentização, organização de código e construção de interfaces modernas.
 
