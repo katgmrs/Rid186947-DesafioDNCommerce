@@ -1,4 +1,4 @@
-# 🛒 DN Commerce
+# 🛒 DNCommerce
 
 Projeto de e-commerce desenvolvido com foco na criação de uma experiência de compra intuitiva, responsiva e moderna, aplicando conceitos fundamentais de desenvolvimento Front-End e integração com dados de produtos.
 
